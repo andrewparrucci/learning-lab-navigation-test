@@ -16,10 +16,11 @@
 <body>
   {% include header-extended2.html %}
   <main id="main-container">
-    <iframe src="{{ site.test-site }}" name="test-site" height="100%" width="100%" title="test-site" frameborder="0"></iframe>
+    <iframe is="x-frame-bypass" src="{{ site.test-site }}" name="test-site" height="100%" width="100%" title="test-site" frameborder="0"></iframe>
   </main>
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/2.12.0/js/uswds.min.js" integrity="sha512-E8cQqs8stInR6gI5P8lC0cnD0ee00C+XM1vYSCBm9Lr6s20CUQhYi6ZcXpBYE3v17EAXOqxqppkJRzFuOy4P1w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script type="module" src="https://unpkg.com/x-frame-bypass"></script>
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
