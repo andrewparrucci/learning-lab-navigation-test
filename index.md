@@ -40,7 +40,7 @@ nav:
         url: "https://usaidlearninglab.org/cla-case-competition#641"
       - title: Case Studies Map
         url: "https://usaidlearninglab.org/cla-cases"
-  - title: Case Competition
+  - title: About
     subnav:
       - title: Our Community
         url: "https://usaidlearninglab.org/about-usaid-learning-lab"
