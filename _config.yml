@@ -18,7 +18,7 @@ baseurl: /learning-lab-navigation-test
 test-site: "https://usaidlearninglab.org"
 
 # The name of the site you want to appear in the header section.
-test-site-name: "USAID Learning Lab Navigation Test"
+test-site-name: "USAID Learning Lab Nav Test"
 
 # The amount of offsite needed to cover the test site nav with the new nav.
 # Increase the negative number value to move the test site "up" so more of it is covered by the new nav.
