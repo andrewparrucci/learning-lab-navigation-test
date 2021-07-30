@@ -15,7 +15,7 @@ baseurl: /learning-lab-navigation-test
 ### TEST SITE SETTINGS ###
 
 # The URL of the site you want to test.
-test-site: "https://www.nytimes.com/"
+test-site: "https://usaidlearninglab.org"
 
 # The name of the site you want to appear in the header section.
 test-site-name: "USAID Learning Lab Nav Test"
