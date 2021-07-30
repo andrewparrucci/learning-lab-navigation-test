@@ -2,14 +2,16 @@
 layout: default
 title: Home
 nav:
-  - title: Benefits
+  - title: What is CLA?
     subnav:
-      - title: Grants
-        url: "https://www.usa.gov/grants"
-      - title: Food
-        url: "https://www.usa.gov/food-help"
-      - title: Affordable Rentals
-        url: "https://www.usa.gov/finding-home"    
+      - title: Understanding CLA
+        url: "https://usaidlearninglab.org/qrg/understanding-cla-0"
+      - title: CLA in the Program Cycle
+        url: "https://usaidlearninglab.org/program-cycle-overview-page"
+      - title: M&E for Learning
+        url: "https://usaidlearninglab.org/qrg/me-learning"
+      - title: Evidence Dashboard
+        url: "https://usaidlearninglab.org/eb4cla-evidence-dashboard"
   - title: Jobs
     subnav:
       - title: Unemployment Help
